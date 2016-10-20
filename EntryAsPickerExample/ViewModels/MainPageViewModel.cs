@@ -82,6 +82,7 @@ namespace EntryAsPickerExample.ViewModels
 						"Opção 2",
 						"Opção 3",
 						"Opção 4"
+
 					});
 
 					if (!string.IsNullOrEmpty(result) && result != "CANCELAR" && result != "LIMPAR")
